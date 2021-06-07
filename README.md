@@ -21,3 +21,9 @@
 
 ### Resources about CSS Border
 * https://developer.mozilla.org/en-US/docs/Web/CSS/border
+
+
+### Tasks (take one from the list below or all, and do whatever you can, first try to achieve the results with the tools you learned recently, if you can not find a way it is ok, you can search and copy paste 😄)
+* https://www.w3schools.com/w3css/tryw3css_templates_cv.htm
+* https://www.html5webtemplates.co.uk/wp-content/uploads/2020/templates/black_white/contact.html
+* https://www.w3schools.com/w3css/tryw3css_templates_bw_portfolio.htm
