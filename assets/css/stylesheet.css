@@ -1,0 +1,11 @@
+@font-face {
+    font-family: 'salam dunya';
+    src: url('../fonts/Antithesis.eot');
+    src: url('../fonts/Antithesis.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/Antithesis.woff2') format('woff2'),
+        url('../fonts/Antithesis.woff') format('woff'),
+        url('../fonts/Antithesis.ttf') format('truetype'),
+        url('../fonts/Antithesis.svg#Antithesis') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
